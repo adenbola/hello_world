@@ -1,3 +1,3 @@
 # hello_world
-I am Bola Adeniran, a Geophysicist and computational geoscientist.
+I am Bola ADENIRAN, a Geophysicist and Computational Geoscientist.
 
