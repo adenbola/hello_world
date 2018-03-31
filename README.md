@@ -1,2 +1,3 @@
 # hello_world
-Intro 2 Git
+I am Bola Adeniran, a Geophysicist and computational geoscientist.
+
